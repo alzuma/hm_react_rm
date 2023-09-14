@@ -30,7 +30,7 @@ Create a web application that allows users to browse and view characters from th
 
 ## Submission Guidelines
 - Host your React project on a platform like GitHub or GitLab.
-- Provide a link to the live web application for evaluation.
+- Provide a link to the live web application for evaluation. (optional, but preferable)
 - Include a README.md file with instructions on how to view and use your application.
 
 ## Deadline
